@@ -1,1 +1,3 @@
-# flammerouge
+# Flamme Rouge
+
+This project consist of a videogame version of the Flamme Rouge board game. It is about cyclists in the Tour de France, each player has a sprinter and a wheeler that he has to move wisely to avoid strain, to gain from the group air aspirations, all of that thanks to a deck of available cards telling how many cases the cyclist can move...
